@@ -1,4 +1,4 @@
-FROM bitwalker/alpine-elixir:1.6.1
+FROM bitwalker/alpine-elixir:1.6.4
 
 MAINTAINER Josh Taylor <joshuataylorx@gmail.com>
 
